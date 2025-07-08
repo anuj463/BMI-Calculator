@@ -7,4 +7,4 @@ weight = float(input("Enter the weight in kilograms:"))
 
 bmi = weight/(height * height)
 
-print("Your BMI(Body Mass Index) is :", bmi)calculator.py
+print("Your BMI(Body Mass Index) is :", bmi) 
